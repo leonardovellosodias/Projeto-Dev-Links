@@ -6,9 +6,9 @@ function toggleMode() {
   
   if (html.classList.contains("light")) {
   
-    img.setAttribute("src", "./assets/avatar-leo-light.png")
+    img.setAttribute("src", "./assets/avatar-serio.png")
   } else {
     
-    img.setAttribute("src", "./assets/avatar-leo.png")
+    img.setAttribute("src", "./assets/avatar-sorrindo.png")
   }
 }
